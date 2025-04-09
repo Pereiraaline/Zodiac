@@ -1,11 +1,12 @@
 # 🌌 Zodiac – Calculadora de Signos do Zodíaco
 
-Aplicação web desenvolvida em PHP que identifica o signo do zodíaco com base na data de nascimento do usuário.
-
-
 <p align="center">
   <img src="assets/img/captura-home.png" alt="Preview da Home" width="600">
 </p>
+
+
+Aplicação web desenvolvida em PHP que identifica o signo do zodíaco com base na data de nascimento do usuário.
+
 
 ---
 ## 🌐 [Zodiac](https://zodiac-38d1.onrender.com/index.php)
